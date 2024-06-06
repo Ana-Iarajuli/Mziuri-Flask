@@ -6,7 +6,7 @@
   </component>
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DatabaseBrowserManager">
@@ -38,11 +38,7 @@ on books.id = purchase.book_id]]></console>
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="bb87bc32-9497-41be-b994-5b0f75e0b8d1" object-ref="schemas/main/tables/purchase" />
-      <object connection-id="bb87bc32-9497-41be-b994-5b0f75e0b8d1" object-ref="schemas/main/tables/books" />
-      <object connection-id="bb87bc32-9497-41be-b994-5b0f75e0b8d1" object-ref="schemas/main/tables/users" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="bb87bc32-9497-41be-b994-5b0f75e0b8d1" />
